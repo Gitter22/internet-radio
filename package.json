@@ -1,0 +1,24 @@
+{
+  "name": "intenet-radio",
+  "version": "1.0.0",
+  "description": "Stream audio files over socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gitter22/internet-radio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gitter22/internet-radio/issues"
+  },
+  "homepage": "https://github.com/Gitter22/internet-radio#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
